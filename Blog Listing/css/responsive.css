@@ -1,0 +1,8 @@
+@media (min-width: 768px) {
+    .entry-meta>span {
+        margin-right: 16px;
+    }
+}
+@media (max-width: 991px){
+    .blog-item-date {width: 25%;}
+}
